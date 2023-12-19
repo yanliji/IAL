@@ -3,8 +3,8 @@ The sound mixture separation is still challenging due to heavy sound overlapping
 
 ##  Summary of proposed approach
 <div align=center> 
-<img src="https://github.com/yanliji/IAL/blob/main/Image/Framework1.png" width="180" height= "105")
-<\div>
+<img src="https://github.com/yanliji/IAL/blob/main/Image/Framework1.png")
+</div>
   
 The proposed approach is majorly composed of two major parts, (a) the Cross-Modal Separation (CMS), and (b) Independency Adversarial Learning (IAL). 
 
