@@ -5,7 +5,8 @@ The sound mixture separation is still challenging due to heavy sound overlapping
 
 
 ##  Result Visualization
-![Image text](https://github.com/yanliji/IAL/blob/main/Image/AVESeparationResults.pdf)
+![ Separation results of audio spectrums in the AVE dataset.](https://github.com/yanliji/IAL/blob/main/Image/AVESeparationResults.pdf)
+
 ## Citation
 
 @inproceedings{lin2023IAL,
