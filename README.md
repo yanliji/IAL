@@ -10,3 +10,10 @@ The sound mixture separation is still challenging due to heavy sound overlapping
 ##  Result Visualization
 
 ## Citation
+@inproceedings{lin2023IAL,
+  title={Independence Adversarial Learning for Cross-Modal Sound Separation},
+  author={Zhenkai Lin and Yanli Ji and Yang Yang},
+  booktitle={Proceedings of the 38th AAAI Conference on Artificial Intelligence,},
+  pages={1--1},
+  year={2024}
+}
