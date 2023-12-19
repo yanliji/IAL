@@ -5,7 +5,7 @@ The sound mixture separation is still challenging due to heavy sound overlapping
 
 
 ##  Result Visualization
-![Image text]()
+![Image text](https://github.com/yanliji/IAL/blob/main/Image/AVESeparationResults.pdf)
 ## Citation
 
 @inproceedings{lin2023IAL,
